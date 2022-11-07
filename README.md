@@ -1,15 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=WELCOME!%20I'M%20DDOO&fontSize=50)
-
 <div align="center">
-	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-	<img src="https://img.shields.io/badge/Opencv-5C3EE8?style=flat&logo=Opencv&logoColor=white" />
-	<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" />
-	<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddoo0922&show_icons=true&theme=dracula)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:99CCFF,100:0000FF&height=300&section=header&text=WELCOME!%20I'M%20DDOO&fontSize=50)
+
+
+
+|Github | skill |
+|:---:|:---:|
+|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddoo0922&show_icons=true&theme=dracula)|<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" /> <img src="https://img.shields.io/badge/Opencv-5C3EE8?style=flat&logo=Opencv&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" /> <img src="https://img.shields.io/badge/Elastic-005571?style=flat&logo=Elastic&logoColor=white" />
+
 </div>
-
-
 
 
 
