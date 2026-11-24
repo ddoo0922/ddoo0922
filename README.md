@@ -21,7 +21,7 @@ AI 전공과 HCI·VR 연구를 바탕으로 로봇 제어, 학습, 검증, 관�
 
 ---
 
-### 02. Focuspot
+### 02. [Focuspot](https://github.com/ddoo0922/Focuspot)
 **로봇용접 불량 위험도 예측 및 검사 우선순위 추천**
 
 🏆 **KAMP AI 경진대회 최우수상 · POSTECH 총장상**
@@ -31,7 +31,7 @@ AI 전공과 HCI·VR 연구를 바탕으로 로봇 제어, 학습, 검증, 관�
 
 `Python` `Weakly Supervised Learning` `Quality Prediction` `Inspection Planning`
 
-<!-- Focuspot 저장소 URL이 확인되면 프로젝트 제목과 저장소 링크에 추가합니다. -->
+[저장소](https://github.com/ddoo0922/Focuspot)
 
 ---
 
